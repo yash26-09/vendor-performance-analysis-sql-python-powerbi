@@ -190,4 +190,3 @@ Aspiring Data Analyst | SQL • Python • Power BI
 
 Email: ym71062@gmail.com  
 LinkedIn: www.linkedin.com/in/yashk2609
-GitHub: your-github  
