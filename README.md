@@ -186,6 +186,7 @@ Strategic vendor diversification and targeted promotions can significantly impro
 ## 👨‍💻 Author & Contact
 
 Yash Khairnar
+
 Aspiring Data Analyst | SQL • Python • Power BI  
 
 Email: ym71062@gmail.com  
