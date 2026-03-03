@@ -1,4 +1,4 @@
-# 🧾 Vendor Performance Analysis – Retail Inventory & Sales Optimization
+ji# 🧾 Vendor Performance Analysis – Retail Inventory & Sales Optimization
 
 ## 🔹 Brief One-Line Summary
 
@@ -185,7 +185,7 @@ Strategic vendor diversification and targeted promotions can significantly impro
 
 ## 👨‍💻 Author & Contact
 
-Parth [Yash Khairnar]  
+Yash Khairnar
 Aspiring Data Analyst | SQL • Python • Power BI  
 
 Email: ym71062@gmail.com  
